@@ -1,6 +1,6 @@
-# Gu Caciolato (blog)
+# Gu Caciolato (Portifólio)
 
-BLog
+Portifólio
 
 ## Install the dependencies
 ```bash
